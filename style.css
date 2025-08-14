@@ -7,21 +7,29 @@ body{
     font-family: "Pacifico", cursive;
     font-weight: 400;
     font-style: normal;
-    font-size: 4rem;
+    font-size: 3rem;
 }
 
 h1{
     color: #B0DB9C;
+    margin-bottom: 0px;
+    margin-top: 20px;
 }
 
 h2{
-    font-family: "Pacifico", cursive;
-    font-weight: bold;
+    font-family: "Russo One", sans-serif;
+    font-weight: 400;
     font-style: normal;
     color: #B0DB9C;
+    text-align: center;
+    font-size: 50px;
 
 }
 .img_section{
     display: flex;
     justify-content: center;
+}
+
+.img1{
+    padding-right: 50px;
 }
