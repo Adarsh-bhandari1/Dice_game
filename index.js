@@ -25,5 +25,5 @@ if (performance.navigation.type === 1) {
     Winner(n1 , n2);
 } else {
     // This is the initial page load
-    document.querySelector(".heading h1").innerHTML="Refresh Me to Start the Game";
+    document.querySelector(".heading h1").innerHTML=" Roll the Dice! ";
 }
